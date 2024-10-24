@@ -1,0 +1,68 @@
+Add Component: Footprint Not Found SWITCHCRAFT_35RAPC4BH3
+Add Component: Footprint Not Found VRRM065
+Added Component: Designator=P?(SLIN-GRPB031VWVN-RC_V)
+Add component (AddParameter): Name = "Catalog Drawings"; Value = "S9014ESeriesTop"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Connectors,Interconnects"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "Header,Unshrouded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish Thickness"; Value = "Flash"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Mating Length"; Value = "0.118"(3.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Type"; Value = "MalePin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.sullinscorp.com/drawings/71_GRPB___1VWVN-RC,_10957-C.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. C, 12/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dynamic Catalog"; Value = "GRPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Family"; Value = "RectangularConnectors-Headers,MalePins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Sullins"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.sullinscorp.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Products"; Value = "S9010E-03-ND
+-CONNHEADER.050"3POSR/APCB
+S9008E-03-ND
+-CONNHEADER.050"3POSPCBGOLD
+S9005E-03-ND
+-CONNHEADER.050"3POSSMDGOLD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Other Names"; Value = "S9014E-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "Male Header, Pitch 1.27 mm, 1 x 3 Position, Height 4 mm, Tail Length 2.3 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "GRPB031VWVN-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "0.050"(1.27mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Standard Package"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3216X60X45LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW120647K0FKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3216X60X45LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW120647K0FKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=-5V Pin=P?-1
+Added Net: Name=-5V
+Added Pin To Net: NetName=5V Pin=P?-3
+Added Net: Name=5V
+Added Pin To Net: NetName=LA Pin=U?-2
+Added Net: Name=LA
+Add Net: Net with name "NetC?_1" already exists
+Added Pin To Net: NetName=NetNP?_2 Pin=R?-2
+Added Net: Name=NetNP?_2
+Added Pin To Net: NetName=NetNP?_3 Pin=R?-2
+Added Pin To Net: NetName=NetNP?_3 Pin=U?-8
+Added Net: Name=NetNP?_3
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-1
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Added Pin To Net: NetName=RA Pin=U?-3
+Added Net: Name=RA
+Added Net: Name=RLD
+Added Member To Class: ClassName=Sheet1 Member=Component C? T491A106K010AT
+Add Class Member: Failed to add class member : Component J? 3.5mm header
+Add Class Member: Failed to add class member : Component NP? semifixedpots
+Added Member To Class: ClassName=Sheet1 Member=Component P? GRPB031VWVN-RC
+Added Member To Class: ClassName=Sheet1 Member=Component R? CRCW120647K0FKEA
+Added Member To Class: ClassName=Sheet1 Member=Component R? CRCW120647K0FKEA
+Added Member To Class: ClassName=Sheet1 Member=Component U? AD620BRZ-R7

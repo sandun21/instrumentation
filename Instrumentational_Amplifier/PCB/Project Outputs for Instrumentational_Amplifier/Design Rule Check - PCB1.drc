@@ -1,0 +1,70 @@
+Protel Design System Design Rule Check
+PCB File : D:\projects\github\instrumentation\Instrumentational_Amplifier\PCB\PCB1.PcbDoc
+Date     : 10/24/2024
+Time     : 8:01:00 PM
+
+Processing Rule : Clearance Constraint (Gap=10mil) (All),(All)
+   Violation between Clearance Constraint: (8.661mil < 10mil) Between Pad P1-1(1545mil,1055mil) on Multi-Layer And Pad P1-2(1595mil,1055mil) on Multi-Layer 
+   Violation between Clearance Constraint: (8.661mil < 10mil) Between Pad P1-2(1595mil,1055mil) on Multi-Layer And Pad P1-3(1645mil,1055mil) on Multi-Layer 
+Rule Violations :2
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net NetC1_1 Between Pad U1-7(2171.184mil,1465mil) on Top Layer And Pad C1-1(2325mil,1602.835mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-2(1770mil,1172.835mil) on Top Layer And Pad C1-2(2325mil,1707.165mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetC2_1 Between Pad C2-1(1770mil,1277.165mil) on Top Layer And Pad U1-4(1988.816mil,1365mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net GND Between Pad P1-2(1595mil,1055mil) on Multi-Layer And Pad C2-2(1770mil,1172.835mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net LA Between Pad J1-2(1210.276mil,1682.087mil) on Multi-Layer And Pad U1-2(1988.816mil,1465mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net RA Between Pad J1-5(1592.165mil,1508.858mil) on Multi-Layer And Pad U1-3(1988.816mil,1415mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetNP1_2 Between Pad R2-2(2118.15mil,1055mil) on Top Layer And Pad NP1-2(2591.575mil,1821.85mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetNP1_3 Between Pad NP1-3(2690mil,1625mil) on Multi-Layer And Pad R3-2(2693.15mil,1250mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetNP1_3 Between Pad U1-8(2171.184mil,1515mil) on Top Layer And Pad NP1-3(2690mil,1625mil) on Multi-Layer 
+   Violation between Un-Routed Net Constraint: Net NetR1_1 Between Pad R2-1(2011.85mil,1055mil) on Top Layer And Pad R1-1(2363.701mil,1115mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR1_2 Between Pad R1-2(2470mil,1115mil) on Top Layer And Pad R3-1(2586.85mil,1250mil) on Top Layer 
+   Violation between Un-Routed Net Constraint: Net NetR1_1 Between Pad U1-1(1988.816mil,1515mil) on Top Layer And Pad R2-1(2011.85mil,1055mil) on Top Layer 
+Rule Violations :12
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=10mil) (Max=10mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad C1-1(2325mil,1602.835mil) on Top Layer And Pad C1-2(2325mil,1707.165mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad C2-1(1770mil,1277.165mil) on Top Layer And Pad C2-2(1770mil,1172.835mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.661mil < 10mil) Between Pad P1-1(1545mil,1055mil) on Multi-Layer And Pad P1-2(1595mil,1055mil) on Multi-Layer [Top Solder] Mask Sliver [0.661mil] / [Bottom Solder] Mask Sliver [0.661mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.661mil < 10mil) Between Pad P1-2(1595mil,1055mil) on Multi-Layer And Pad P1-3(1645mil,1055mil) on Multi-Layer [Top Solder] Mask Sliver [0.661mil] / [Bottom Solder] Mask Sliver [0.661mil]
+Rule Violations :4
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (9.285mil < 10mil) Between Pad J1-5(1592.165mil,1508.858mil) on Multi-Layer And Track (1631.535mil,1296.26mil)(1631.535mil,1758.858mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.285mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.952mil < 10mil) Between Pad NP1-2(2591.575mil,1821.85mil) on Multi-Layer And Track (2465.59mil,1861.22mil)(2717.559mil,1861.22mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [1.952mil]
+Rule Violations :2
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "P1" (1503mil,1132mil) on Top Overlay And Track (1296.89mil,1158.465mil)(1533.11mil,1158.465mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "P1" (1503mil,1132mil) on Top Overlay And Track (1533.11mil,1158.465mil)(1533.11mil,1296.26mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+Rule Violations :2
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 22
+Waived Violations : 0
+Time Elapsed        : 00:00:01

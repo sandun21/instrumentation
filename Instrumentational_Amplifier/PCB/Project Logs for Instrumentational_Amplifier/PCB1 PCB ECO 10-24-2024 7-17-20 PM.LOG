@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=NetC?_1 Pin=U?-4
+Add Component: Footprint Not Found SWITCHCRAFT_35RAPC4BH3
+Add Component: Footprint Not Found VRRM065
+Added Component: Designator=R?(RESC3216X60X45LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW120647K0FKEA"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC3216X60X45LL10T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "CRCW120647K0FKEA"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC?_1 Pin=U?-7
+Added Net: Name=LA
+Added Pin To Net: NetName=NetNP?_2 Pin=R?-2
+Added Net: Name=NetNP?_2
+Added Pin To Net: NetName=NetNP?_3 Pin=R?-2
+Added Pin To Net: NetName=NetNP?_3 Pin=U?-8
+Added Net: Name=NetNP?_3
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-1
+Added Net: Name=NetR?_1
+Add Net: Net with name "NetR?_1" already exists
+Added Net: Name=RA
+Added Net: Name=RLout
+Add Class Member: Failed to add class member : Component J? 3.5mm header
+Add Class Member: Failed to add class member : Component NP? semifixedpots
+Added Member To Class: ClassName=Sheet1 Member=Component R? CRCW120647K0FKEA
+Added Member To Class: ClassName=Sheet1 Member=Component R? CRCW120647K0FKEA
+Added Member To Class: ClassName=Sheet1 Member=Component U? AD620BRZ-R7

@@ -1,0 +1,16 @@
+Added Component: Designator=J?(SWITCHCRAFT_35RAPC4BH3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "35RAPC4BH3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found VRRM065
+Add Pin To Net: Unknown Pin: Pin NP?-2
+Add Pin To Net: Unknown Pin: Pin NP?-3
+Add Net: Net with name "NetR?_1" already exists
+Added Member To Class: ClassName=Sheet1 Member=Component C? T491A106K010AT
+Added Member To Class: ClassName=Sheet1 Member=Component J? 3.5mm header
+Add Class Member: Failed to add class member : Component NP? semifixedpots
+Added Member To Class: ClassName=Sheet1 Member=Component R? CRCW120647K0FKEA
+Added Member To Class: ClassName=Sheet1 Member=Component R? CRCW120647K0FKEA

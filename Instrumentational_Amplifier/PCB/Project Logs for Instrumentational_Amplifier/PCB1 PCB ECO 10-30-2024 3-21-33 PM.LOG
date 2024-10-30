@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=RLD Pin=J1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=J1-2
+Removed Pin From Net: NetName=NetC2_2 Pin=J1-3
+Change Component Footprint: Designator=J1 Old Footprint=FP-M22-2510305-MFG New Footprint=SWITCHCRAFT_35RAPC4BH3
+Change Component Comment : Designator=J1 Old Comment=M22-2510305 New Comment=3.5mm header
+Change Managed Component Library Link : Designator=J1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=69DAB644-56A8-427B-8442-ABC800DA9382 New ItemGUID= Old RevisionGUID=A531DF0E-CA87-494E-8AEC-9C2E76F6C31F New RevisionGUID=
+Change component parameters: Designator = "J1" ("J1"); Footprint = "FP-M22-2510305-MFG"; UniqueID = "\ZTKPOTJY" ("\ZTKPOTJY")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "35RAPC4BH3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=J1-1
+Added Pin To Net: NetName=RLD Pin=J1-3
+Added Pin To Net: NetName=NetC2_2 Pin=J1-4

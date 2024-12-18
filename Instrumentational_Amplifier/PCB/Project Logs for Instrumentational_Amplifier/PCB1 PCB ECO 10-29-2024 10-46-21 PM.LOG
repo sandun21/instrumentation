@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=NetC1_2 Pin=R1-2
-Removed Pin From Net: NetName=NetC2_2 Pin=R2-2
-Added Pin To Net: NetName=LA Pin=R1-2
-Added Pin To Net: NetName=RA Pin=R2-2
-Added Member To Class: ClassName=Sheet1 Member=Component C6 C1206C104K5RACTU
-Added Member To Class: ClassName=Sheet1 Member=Component C7 C1206C104K5RACTU
-Added Member To Class: ClassName=Sheet1 Member=Component R5 CRCW1206470RFKEA

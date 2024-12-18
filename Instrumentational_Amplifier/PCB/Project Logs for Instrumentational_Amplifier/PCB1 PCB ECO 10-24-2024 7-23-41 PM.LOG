@@ -1,8 +1,0 @@
-Added Component: Designator=NP?(VRRM065)
-Added Pin To Net: NetName=NetNP?_2 Pin=NP?-2
-Added Pin To Net: NetName=NetNP?_3 Pin=NP?-3
-Add Net: Net with name "NetR?_1" already exists
-Added Member To Class: ClassName=Sheet1 Member=Component C? T491A106K010AT
-Added Member To Class: ClassName=Sheet1 Member=Component NP? semifixedpots
-Added Member To Class: ClassName=Sheet1 Member=Component R? CRCW120647K0FKEA
-Added Member To Class: ClassName=Sheet1 Member=Component R? CRCW120647K0FKEA

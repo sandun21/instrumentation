@@ -1,9 +1,0 @@
-Added Component: Designator=R?(RESC3216X60X45LL10T20)
-Add component (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Part Number"; Value = "CRCW120647K0FKEA"; VariantName = "[No Variations]"
-Add Net: Net with name "NetC?_1" already exists
-Added Pin To Net: NetName=NetR?_2 Pin=R?-2
-Added Pin To Net: NetName=NetR?_2 Pin=U?-1
-Added Net: Name=NetR?_2
-Added Member To Class: ClassName=Sheet1 Member=Component C? T491A106K010AT
-Added Member To Class: ClassName=Sheet1 Member=Component R? CRCW120647K0FKEA

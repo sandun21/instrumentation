@@ -1,0 +1,45 @@
+StiFile 1.2
+# File generated on Sat Dec 14 14:24:21 2024
+
+Electric 1:
+  name: "J2"
+  voltage: 4.99924
+  current: -0.750025
+  pluspin: 1  voltage: 4.99924  current: -0.750025  name: "J2-3"
+  minpin: 0  voltage: 0  current: 0.750025  name: "J2.min"
+
+Electric 2:
+  name: "U2"
+  voltage: 4.99614
+  current: 0.150005
+  pluspin: 3  voltage: 4.99614  current: 0.150005  name: "U2-2"
+  minpin: 0  voltage: 0  current: -0.150005  name: "U2.min"
+
+Electric 3:
+  name: "C9"
+  voltage: 4.99651
+  current: 0.150005
+  pluspin: 5  voltage: 4.99651  current: 0.150005  name: "C9-1"
+  minpin: 0  voltage: 0  current: -0.150005  name: "C9.min"
+
+Electric 4:
+  name: "C5"
+  voltage: 4.99856
+  current: 0.150005
+  pluspin: 7  voltage: 4.99856  current: 0.150005  name: "C5-1"
+  minpin: 0  voltage: 0  current: -0.150005  name: "C5.min"
+
+Electric 5:
+  name: "U1"
+  voltage: 4.9928
+  current: 0.150005
+  pluspin: 9  voltage: 4.9928  current: 0.150005  name: "U1-4"
+  minpin: 0  voltage: 0  current: -0.150005  name: "U1.min"
+
+Electric 6:
+  name: "C10"
+  voltage: 4.99297
+  current: 0.150005
+  pluspin: 11  voltage: 4.99297  current: 0.150005  name: "C10-1"
+  minpin: 0  voltage: 0  current: -0.150005  name: "C10.min"
+

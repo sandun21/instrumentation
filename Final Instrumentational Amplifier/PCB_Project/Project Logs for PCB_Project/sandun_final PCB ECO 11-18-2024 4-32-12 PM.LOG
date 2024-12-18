@@ -1,0 +1,49 @@
+Change Component Comment : Designator=C7 Old Comment=593D106X96R3A2TE3 New Comment=0.1uF
+Change Component Comment : Designator=C10 Old Comment=593D106X96R3A2TE3 New Comment=0.1uF
+Change Component Comment : Designator=R5 Old Comment=ERA6AEB102V New Comment=1M ?
+Change Component Comment : Designator=R4 Old Comment=ERA6AEB102V New Comment=1M
+Change Component Comment : Designator=R3 Old Comment=ERA6AEB102V New Comment=10k
+Change Component Designator: OldDesignator=OUT NewDesignator=J3
+Change Component Designator: OldDesignator=PWR NewDesignator=J2
+Change Component Designator: OldDesignator=Sig In NewDesignator=J1
+Change Component Description : Designator=C7 Old Description=Capacitor Polarised New Description=Capacitor Polarised,  593D106X96R3A2TE3
+Change Component Description : Designator=C10 Old Description=Capacitor Polarised New Description=Capacitor Polarised,  593D106X96R3A2TE3
+Change Component Description : Designator=R3 Old Description=RES 1K OHM 0.1% 1/8W 0805 New Description=RES 1K OHM 0.1% 1/8W 0805,   ERA6AEB102V
+Change Component Description : Designator=R4 Old Description=RES 1K OHM 0.1% 1/8W 0805 New Description=RES 1K OHM 0.1% 1/8W 0805,  ERA6AEB102V
+Change Component Description : Designator=R5 Old Description=RES 1K OHM 0.1% 1/8W 0805 New Description=RES 1K OHM 0.1% 1/8W 0805,  ERA6AEB102V
+Added Component: Designator=U?(FP-R-8-IPC_B)
+Add component (AddParameter): Name = "-3db Bandwidth"; Value = "1MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bandwidth"; Value = "800kHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Common Mode Rejection Ratio"; Value = "93dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Tin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dual Supply Voltage"; Value = "15V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Bias Current"; Value = "500pA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Offset Voltage (Vos)"; Value = "30mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Resistance"; Value = "10GR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Contains Lead"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Dual Supply Voltage"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power Dissipation"; Value = "650mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Dual Supply Voltage"; Value = "2.3V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Supply Voltage"; Value = "4.6V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Supply Current"; Value = "900uA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Circuits"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Elements"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Current"; Value = "1.3mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Supply Voltage"; Value = "18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current per Channel"; Value = "18mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Dissipation"; Value = "650mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Supply Rejection Ratio (PSRR)"; Value = "140dB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Slew Rate"; Value = "1.2V/µs"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Current"; Value = "900uA"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sheet1 Member=Component U? AD620ARZ-REEL7
